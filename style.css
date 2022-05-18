@@ -101,3 +101,7 @@ th {
 tr td:first-child {
   color: green;
 }
+
+.con_title_green_end {
+  color: green;
+}
